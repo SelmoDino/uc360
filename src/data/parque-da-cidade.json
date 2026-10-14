@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "name": "Parque da Cidade",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Natural Municipal da Cidade",
+        "category": "Parque Municipal",
+        "area_ha": 21.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-44.3190, -23.0090],
+            [-44.3180, -23.0055],
+            [-44.3140, -23.0060],
+            [-44.3135, -23.0095],
+            [-44.3165, -23.0105],
+            [-44.3190, -23.0090]
+          ]
+        ]
+      }
+    }
+  ]
+}

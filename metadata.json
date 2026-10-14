@@ -1,0 +1,6 @@
+{
+  "name": "Semana do Meio Ambiente - Costa Verde",
+  "description": "Plataforma interativa para explorar as Unidades de Conservação da Costa Verde (INEA), integrando mapas 3D interativos e educação ambiental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
